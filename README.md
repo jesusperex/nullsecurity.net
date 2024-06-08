@@ -1,2 +1,0 @@
-# nullsecurity.net
-.nullsecurity.net
